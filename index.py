@@ -8,9 +8,9 @@ from telegram.ext import CommandHandler, MessageHandler, Filters, CallbackQueryH
 from movies_scraper import search_movies, get_movie
 
 
-TOKEN = ("df527271f6f0366556b11d40c3a4ea568837d6b9")
+TOKEN = (("df527271f6f0366556b11d40c3a4ea568837d6b9"))
 URL = ("moviesbot-five.vercel.app")
-bot = ("6020232865:AAGoSFDrBrvlYoO2Xzpdal1bOnB1XmbOstw")
+bot =  (("6020232865:AAGoSFDrBrvlYoO2Xzpdal1bOnB1XmbOstw"))
 
 
 def welcome(update, context) -> None:
